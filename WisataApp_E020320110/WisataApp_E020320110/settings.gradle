@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='WisataApp_E020320110'

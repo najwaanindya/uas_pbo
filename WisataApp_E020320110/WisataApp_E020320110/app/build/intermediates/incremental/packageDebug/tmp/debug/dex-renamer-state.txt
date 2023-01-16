@@ -1,0 +1,7 @@
+#Fri Jan 13 14:47:56 SGT 2023
+base.1=C\:\\Users\\ASUS\\Documents\\UAS-PBO\\WisataApp_E020320110\\WisataApp_E020320110\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\ASUS\\Documents\\UAS-PBO\\WisataApp_E020320110\\WisataApp_E020320110\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
